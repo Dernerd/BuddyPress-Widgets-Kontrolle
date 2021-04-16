@@ -1,12 +1,5 @@
 #  BuddyPress Widgets ausblenden
 
-** INAKTIVER HINWEIS: Dieses Plugin wird von WPMUDEV nicht unterstützt. Wir haben es hier für diejenigen technischen Typen veröffentlicht, die es für ihre Bedürfnisse teilen und warten möchten. **
-
-##  Übersetzungen
-
-Übersetzungsdateien finden Sie unter https://github.com/wpmudev/translations
-
-Mit  ## BuddyPress Hide Widgets können Sie bestimmte BuddyPress-Widgets nur auf der Hauptseite Ihres Netzwerks verfügbar machen.
 
 ###  Erweiterte BuddyPress-Einstellungen
 
@@ -36,7 +29,7 @@ Blenden Sie BuddyPress-Widgets mit BuddyPress Hide Widgets präzise aus und eins
 
 ### Erste  Schritte:
 
-Lesen Sie zunächst den Abschnitt [ Installieren von Plugins ] (https://premium.wpmudev.org/wpmu-manual/installing-regular-plugins-on-wpmu/) in unserem umfassenden [ WordPress- und WordPress-Multisite-Handbuch ] (https: // Premium.wpmudev.org/wpmu-manual/), wenn Sie WordPress noch nicht kennen. Nach der Installation und Netzwerkaktivierung finden Sie die Einstellungen für dieses Plugin in Ihrem Netzwerkadministrator unter Einstellungen> BuddyPress> Einstellungen.
+ Nach der Installation und Netzwerkaktivierung finden Sie die Einstellungen für dieses Plugin in Ihrem Netzwerkadministrator unter Einstellungen> BuddyPress> Einstellungen.
 
 ! [ BuddyPress Hide Widgets Network Menu ] (https://premium.wpmudev.org/wp-content/uploads/2009/11/buddypress-hide-widgets-1050-menu-network.png)
 

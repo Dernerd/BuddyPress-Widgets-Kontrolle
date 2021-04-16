@@ -2,7 +2,7 @@
 
 /*
 
-Plugin Name: BuddyPress Hide Widgets
+Plugin Name: BuddyPress Widgets ausblenden
 
 Version: 1.0.7
 
