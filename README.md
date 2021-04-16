@@ -3,40 +3,40 @@
 
 ###  Erweiterte BuddyPress-Einstellungen
 
-Steuern Sie, wo BuddyPress-Widgets den Plugin-Zugriff nur für Superadministratoren anzeigen und beschränken können. Reservieren Sie integrierte BuddyPress-Widgets für Ihre Hauptwebsite und richten Sie sie als Netzwerk-Hub ein.
+Steuere wo BuddyPress-Widgets den Plugin-Zugriff nur für Superadministratoren anzeigen und beschränken können. Reserviere integrierte BuddyPress-Widgets für Deine Hauptwebseite und richte sie als Netzwerk-Hub ein.
 
 ###  Widget-Verfügbarkeit umschalten
 
-Wenn Sie BuddyPress-Widgets ausblenden aktivieren, werden der Registerkarte "Einstellungen" von BuddyPress eine Reihe einfacher Steuerelemente zum Umschalten hinzugefügt. Markieren Sie schnell bestimmte Widgets für die ausschließliche Verwendung.
+Wenn Du BuddyPress-Widgets ausblenden aktivierst, werden der Registerkarte "Einstellungen" von BuddyPress eine Reihe einfacher Steuerelemente zum Umschalten hinzugefügt. Markiere schnell bestimmte Widgets für die ausschließliche Verwendung.
 
 ! [ Einstellungen für BuddyPress-Widgets ausblenden ] (http://premium.wpmudev.org/wp-content/uploads/2009/11/buddypress-hide-widgets-1050-settings.png)
 
- Begrenzen Sie den Widget-Zugriff mit einem Klick
+ Begrenze den Widget-Zugriff mit einem Klick
 
 ###  Widget-Steuerung hinzugefügt
 
-#####  Bauen Sie mit den richtigen Tools das perfekte soziale Netzwerk auf:
+#####  Baue mit den richtigen Tools das perfekte soziale Netzwerk auf:
 
 *    Präzise Kontrolle über Widget-Bereiche
-*    Richten Sie die Hauptwebsite als "Community Hub" ein.
-*    Geben Sie Site-Administratoren die Möglichkeit, benutzerdefinierte Widget-Bereiche festzulegen
+*    Richte die Hauptwebsite als "Community Hub" ein.
+*    Gib Seiten-Administratoren die Möglichkeit, benutzerdefinierte Widget-Bereiche festzulegen
 *    Einfache Umschaltkonfiguration
 *    Verwalten des BuddyPress-Widget-Zugriffs
 
-Blenden Sie BuddyPress-Widgets mit BuddyPress Hide Widgets präzise aus und einstellen Sie sie.
+Blende BuddyPress-Widgets mit BuddyPress Hide Widgets präzise aus und stelle sie ein.
 
 ##  Verwendung
 
 ### Erste  Schritte:
 
- Nach der Installation und Netzwerkaktivierung finden Sie die Einstellungen für dieses Plugin in Ihrem Netzwerkadministrator unter Einstellungen> BuddyPress> Einstellungen.
+ Nach der Installation und Netzwerkaktivierung findest Du die Einstellungen für dieses Plugin in Deinem Netzwerkadministrator unter Einstellungen> BuddyPress> Einstellungen.
 
 ! [ BuddyPress Hide Widgets Network Menu ] (https://premium.wpmudev.org/wp-content/uploads/2009/11/buddypress-hide-widgets-1050-menu-network.png)
 
-###  So konfigurieren Sie:
+###  So konfigurierst Du:
 
-Die Konfiguration dieses Plugins könnte nicht einfacher sein. Überprüfen Sie einfach die Widgets, die nur auf der Hauptwebsite oder für alle Websites verfügbar sein sollen. Speichern Sie dann Ihre Einstellungen. Sie sind fertig.
+Die Konfiguration dieses Plugins könnte nicht einfacher sein. Überprüfe einfach die Widgets, die nur auf der Hauptwebsite oder für alle Websites verfügbar sein sollen. Speichere dann Deine Einstellungen. Du bist fertig.
 
 ! [ Einstellungen für BuddyPress-Widgets ausblenden ] (https://premium.wpmudev.org/wp-content/uploads/2009/11/buddypress-hide-widgets-1050-settings.png)
 
- Besuchen Sie eine der Websites in Ihrem Netzwerk, und Sie sollten nur die Widgets sehen, die Sie ausgewählt haben, um angezeigt zu werden.
+ Besuche eine der Webseiten in Deinem Netzwerk, und Du sollteat nur die Widgets sehen, die Du ausgewählt hast, um angezeigt zu werden.
